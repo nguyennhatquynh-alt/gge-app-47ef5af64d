@@ -1,0 +1,31 @@
+{
+  "name": "Chronos - Sổ Tay Quản Trị Thời Gian & Năng Suất",
+  "short_name": "Chronos",
+  "description": "Giải pháp ghi nhận và tối ưu hóa quỹ thời gian thông minh dành cho chuyên gia độc lập, freelancer và nhà quản lý. Ứng dụng giúp theo dõi chính xác từng khung giờ làm việc cho dự án, tự động quy đổi thời gian thành giá trị tài chính và báo cáo hiệu suất cá nhân đa chiều.",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "lang": "vi"
+}
